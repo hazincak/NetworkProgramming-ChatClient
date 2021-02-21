@@ -20,5 +20,5 @@ The second one, *OutputStream*, is sending data out of this socket.
 2. Compile all files:
 ```javac Main.java ServerConnection.java```
 3. Type *ls* command (Windows PowerShell or Git Bash) or *dir* command (Command Prompt) to ensure that you have all your compiled files ending with *.class*
-4. Return to the *src* directory and execute the following command to run the server:
+4. Return to the *src* directory and execute the following command to run the client:
 ```java ie.gmit.dip.Main```
